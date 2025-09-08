@@ -1,4 +1,5 @@
-<img align="center" src="https://i.ibb.co/JRQH7Dg2/Whimsy.gif" width="1000" />
+<img align="center" src="https://i.ibb.co/JRQH7Dg2/Whimsy.gif" width="100" />
+---
 
 # Whimsy
 A cute 2-wheeled dancing robot that plays music and delivers a personalized voice message.
