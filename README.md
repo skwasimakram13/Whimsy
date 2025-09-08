@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/JRQH7Dg2/Whimsy.gif" width="100" />
+<img align="center" src="https://i.ibb.co/JRQH7Dg2/Whimsy.gif" width="200" />
 ---
 
 # Whimsy
