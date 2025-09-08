@@ -43,7 +43,7 @@ A perfect **DIY gift robot** for fun, learning, or surprising loved ones ❤️.
 
 ## 📂 Project Structure
 ```
-dancing-robot-gift/
+Whimsy/
 │
 ├── code/
 │   └── dancing_robot.ino       # Arduino sketch
